@@ -1,3 +1,4 @@
-bundle: <br>
-``` npx webpack ``` <br>
-and run with live server
+## threejs with vanilla javascript
+### bundle:
+``` npx webpack ``` 
+### and run with live server
